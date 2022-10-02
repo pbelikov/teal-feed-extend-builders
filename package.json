@@ -1,0 +1,22 @@
+{
+  "name": "teal-feed-extend-builders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbelikov/teal-feed-extend-builders.git"
+  },
+  "author": "Pavel Belikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbelikov/teal-feed-extend-builders/issues"
+  },
+  "homepage": "https://github.com/pbelikov/teal-feed-extend-builders#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
